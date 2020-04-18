@@ -1,0 +1,59 @@
+body {
+  background-color:brown;
+}
+
+h1 {
+   background-color: gray;
+  margin-left: 20px;
+   border-style: solid;
+  border-color: gray;
+  text-align:center;
+  color:pink;
+}
+h2 {
+  color: orange;
+  border: 1px solid black;
+   width: 200px;
+  outline-style: solid;
+  outline-color: blue;
+  background-color: red;
+  font-style: italic;
+  
+}
+h3{
+	color:black;
+	border: 1px solid black;
+	width:300px;
+	background-color:blue;
+	 font-style: italic;
+}
+
+
+div {
+  background-color: brown;
+}
+
+ table{  
+            border-collapse: collapse;  
+            width: 50%;   
+        }  
+    th,td{  
+        border: 2px solid green;   
+        padding: 15px;  
+    }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+  height: 30px;
+  background-color: #4CAF50;
+
+}  
+
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
